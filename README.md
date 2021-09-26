@@ -1,4 +1,4 @@
-# Object-Detection-using-Yolov3
+# Object-Detection-using-Yolov3-Darknet
 
 Object detection code using pretraing model Yolov3
 
